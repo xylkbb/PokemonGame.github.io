@@ -1,6 +1,11 @@
 body {
+
     background: linear-gradient(45deg, #ff0000, #3b4cca);
+    background-image: url("Greatness.gif");
 }
+
+
+
 
 .centered {
     text-align: center;
