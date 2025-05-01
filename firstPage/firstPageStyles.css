@@ -1,8 +1,9 @@
 body {
 
     background: linear-gradient(45deg, #ff0000, #3b4cca);
-    background-image: url("Greatness.gif");
+    /*background-image: url("Greatness.gif");*/
 }
+
 
 
 
@@ -13,12 +14,13 @@ body {
 
 
 #StartingText {
-    font-size: 25px;
+    font-size: 35px;
     font-family: "Comic Sans MS", serif;
 }
 
 .BodyText {
-font-size: 25px;
+    color: black;
+font-size: 30px;
     font-family: "Comic Sans MS", serif;
     text-align: center;
 

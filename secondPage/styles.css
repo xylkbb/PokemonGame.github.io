@@ -3,7 +3,7 @@
     perspective: 1000px;
     width: 200px;
     height: 200px;
-    transform: translate(800px, 70px);
+    transform: translate(650px, 70px);
 }
 .flipper {
     position: relative;
@@ -37,4 +37,7 @@ input[type=text], select {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    transform: translate(10px, 70px);
+
 }
+

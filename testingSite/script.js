@@ -1,19 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
-    const entryBox = document.getElementById("entryBox");
-    const imageFlipper = document.getElementById("imageFlipper");
-    const correctWord = "Pikachu";
-
-    entryBox.addEventListener("input", () => {
-        if (entryBox.value.toLowerCase() === correctWord.toLowerCase()) {
-            imageFlipper.classList.add("flipped");
-        } else {
-            imageFlipper.classList.remove("flipped");
-        }
-    });
-});
-
-
-
 document.getElementById('hintButton').addEventListener('click', function () {
     const hintText = document.getElementById('hintText');
     if (hintText.style.display === 'none' || hintText.style.display === '') {

@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3687ae6f-caf8-4870-8abc-49147ddd4229" name="Changes" comment="3rd">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fifthPage/fpi.html" beforeDir="false" afterPath="$PROJECT_DIR$/fifthPage/fpi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifthPage/fpst.css" beforeDir="false" afterPath="$PROJECT_DIR$/fifthPage/fpst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifthPage/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/fifthPage/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fifthPage/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/fifthPage/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstPage/Greatness.gif" beforeDir="false" afterPath="$PROJECT_DIR$/fourthPage/Greatness.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstPage/firstPageIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstPage/firstPageIndex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstPage/firstPageStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/firstPage/firstPageStyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstPage/guessThatPokemonHeader.png" beforeDir="false" afterPath="$PROJECT_DIR$/firstPage/guessThatPokemonHeader.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourthPage/fourthpi.html" beforeDir="false" afterPath="$PROJECT_DIR$/fourthPage/fourthpi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourthPage/fourths.css" beforeDir="false" afterPath="$PROJECT_DIR$/fourthPage/fourths.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPage/spi.html" beforeDir="false" afterPath="$PROJECT_DIR$/secondPage/spi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPage/spjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/secondPage/spjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPage/sps.css" beforeDir="false" afterPath="$PROJECT_DIR$/secondPage/sps.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondPage/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/secondPage/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testingSite/jalo.html" beforeDir="false" afterPath="$PROJECT_DIR$/testingSite/jalo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testingSite/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/testingSite/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirdPage/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/thirdPage/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirdPage/tpi.html" beforeDir="false" afterPath="$PROJECT_DIR$/thirdPage/tpi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirdPage/tpjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/thirdPage/tpjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirdPage/tps.css" beforeDir="false" afterPath="$PROJECT_DIR$/thirdPage/tps.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +91,7 @@
       <recent name="C:\Users\coeeri001\WebstormProjects\FinalProjectPortfolio\xylkbb.github.io\thirdPage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\coeeri001\WebstormProjects\FinalProjectPortfolio\xylkbb.github.io\fourthPage" />
       <recent name="C:\Users\coeeri001\WebstormProjects\FinalProjectPortfolio\xylkbb.github.io\firstPage" />
       <recent name="C:\Users\coeeri001\WebstormProjects\FinalProjectPortfolio\xylkbb.github.io\fifthPage" />
       <recent name="C:\Users\coeeri001\WebstormProjects\FinalProjectPortfolio\xylkbb.github.io\thirdPage" />
@@ -102,6 +119,8 @@
       <workItem from="1744890547502" duration="4000" />
       <workItem from="1744890829460" duration="3098000" />
       <workItem from="1745234667447" duration="3518000" />
+      <workItem from="1745407429437" duration="1880000" />
+      <workItem from="1745927068994" duration="2768000" />
     </task>
     <task id="LOCAL-00001" summary="2nd">
       <option name="closed" value="true" />
