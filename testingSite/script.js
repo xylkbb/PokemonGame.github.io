@@ -12,3 +12,8 @@ document.getElementById('hintButton').addEventListener('click', function () {
         }, 500);
     }
 });
+
+document.getElementById('contactForm').addEventListener('submit', function (e) {
+    e.preventDefault();
+    alert('Form submitted successfully!');
+});

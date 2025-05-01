@@ -1,5 +1,5 @@
 body {
-    background-image: url("Greatness.gif");
+    background: linear-gradient(45deg,	#6cb2b8 , 	#378582, #56b1d4, 	#4a95b2, #cdeae8);
 }
 
 
@@ -32,27 +32,27 @@ body {
     text-align: center;
 }
 
-.bodyText1 {
+#bodyText1 {
     text-align: center;
     font-size: 25px;
     font-family: "Comic Sans MS", serif;
 }
 
-.bodyText2 {
+#bodyText2 {
     text-align: center;
     font-size: 25px;
     font-family: "Comic Sans MS", serif;
     transform: translate(0px, -200px);
 
 }
-.bodyText3 {
+#bodyText3 {
     text-align: center;
     font-size: 25px;
     font-family: "Comic Sans MS", serif;
     transform: translate(0px, -450px);
 
 }
-.bodyText4 {
+#bodyText4 {
     text-align: center;
     font-size: 25px;
     font-family: "Comic Sans MS", serif;
@@ -60,4 +60,18 @@ body {
 
 }
 
+#bottomText {
+    text-align: center;
+    color: yellow;
+    font-size: 35px;
+    font-family: "Comic Sans MS", serif;
+    font-style: italic;
+    font-weight: bold;
+    transform: translate(0px, -680px);
+    text-shadow: -3px 0 blue, 0 2px darkblue, 2px 0 darkblue, 0 -2px darkblue;
+}
+
+.contactForm {
+text-align: center
+}
 
